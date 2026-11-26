@@ -38,3 +38,7 @@ powershell.exe -NoProfile -ExecutionPolicy RemoteSigned -File .\CampusNetworkWiF
 ~~~
 
 脚本使用 Windows 保存的 Wi-Fi 凭据。本地配置只填写网卡和 Wi-Fi 配置名称，密码留在 Windows 中。本地配置、运行日志、旧认证配置和可执行文件都应留在本机。
+
+## 旧版校园网认证程序
+
+旧版认证程序由 `ywang-wnlo/HustNetwork` 提供。[上游 v0.8 Release](https://github.com/ywang-wnlo/HustNetwork/releases/tag/v0.8) 可以下载 `HustNetwork_GUI.exe` 和源码 ZIP。[固定源码版本](https://github.com/ywang-wnlo/HustNetwork/tree/cfe06ddda0d3400e510c1966e4832fe0a4ddeb91) 对应上游的 `v0.8`。本仓库的备用连接脚本有独立的版本号。

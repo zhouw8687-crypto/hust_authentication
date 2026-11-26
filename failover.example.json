@@ -1,0 +1,8 @@
+{
+  "WiredAlias": "以太网",
+  "WifiAlias": "WLAN",
+  "WifiProfiles": ["Example-5G", "Example-2.4G"],
+  "IntervalSeconds": 15,
+  "TrialIntervalMinutes": 30,
+  "TrialSeconds": 60
+}

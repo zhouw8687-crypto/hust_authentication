@@ -1,0 +1,12 @@
+*.local.json
+*.log
+*.log.*
+*.ini
+*.conf
+*.exe
+*.lnk
+*.zip
+*.dmp
+wifi-metrics.json*
+runner.lock
+first-wifi-trial
